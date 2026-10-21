@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "required": [
+    "userName"
+  ],
+  "properties": {
+    "userName": {
+      "type": "string",
+      "minLength": 3
+    }
+  }
+}
